@@ -1,6 +1,7 @@
 import asyncio
 import importlib
-
+import asyncio
+asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 from pytgcalls import idle
 
 from AsuXMusic import BOT_USERNAME, bot, call_py
