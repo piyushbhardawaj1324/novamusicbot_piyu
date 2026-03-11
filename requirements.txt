@@ -11,7 +11,7 @@ python-dotenv
 dnspython
 gitpython
 aiofiles
-aiohttp
+aiohttp>=3.9.0,<3.10.0
 aiogram<3.0
 requests
 pillow
