@@ -1,3 +1,4 @@
+ntgcalls==1.0.0
 tgcrypto
 ffmpeg-python
 py-tgcalls
