@@ -20,6 +20,6 @@ motor
 psutil
 future
 wget
-pyyaml==5.4
+pyyaml==6.0.1
 python-arq
 bs4
